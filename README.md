@@ -113,9 +113,9 @@ XOR Gate: The output should light up when exactly one input is HIGH.
 
 
 
-<img width="957" height="752" alt="image" src="https://github.com/user-attachments/assets/73456d32-b72c-4a75-b25b-8cd7519cf7d3" />
+<img width="1042" height="611" alt="Screenshot 2026-10-26 110302" src="https://github.com/user-attachments/assets/7233b12a-18e0-4b82-ac9a-a87d373f8584" />
 
-<img width="862" height="595" alt="image" src="https://github.com/user-attachments/assets/98d506c4-5cbc-411d-9872-3801445ecc5f" />
+<img width="787" height="430" alt="Screenshot 2026-10-26 110312" src="https://github.com/user-attachments/assets/d1c94d6e-4482-45bb-8148-72f79f571be5" />
 
 
 # Results:
